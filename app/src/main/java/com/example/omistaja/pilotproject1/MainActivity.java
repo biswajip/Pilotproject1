@@ -24,8 +24,7 @@ public class MainActivity extends AppCompatActivity {
         textView2 = (TextView) findViewById(R.id.textView2);
         textView3 = (TextView) findViewById(R.id.textView3);
         loginbutton = (Button) findViewById(R.id.loginbutton);
-        registerbutton = (Button) findViewById(R.id.registerbutton);
-
+        registerbutton = (Button) findViewById(R.id.register()
 
         registerbutton.setOnClickListener(new View.OnClickListener() {
 
